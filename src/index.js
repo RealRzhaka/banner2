@@ -1,4 +1,4 @@
-const { ExtendClient } = require('./src/structures/Client.js');
+const { ExtendClient } = require('./structures/Client.js');
 const client = new ExtendClient();
 
 client.init();
