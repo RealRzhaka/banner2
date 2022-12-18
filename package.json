@@ -1,0 +1,17 @@
+{
+  "name": "banner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.30",
+    "discord.js": "^14.6.0",
+    "dotenv": "^16.0.3"
+  }
+}
